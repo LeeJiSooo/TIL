@@ -22,3 +22,5 @@ Today I Learned - 그날 공부한 내용 정리
 * [Synchronized](Java/멀티스레드와%20동시성/Synchronized.md)
 * [Lock](Java/멀티스레드와%20동시성/Lock.md)
 * [Volatile](Java/멀티스레드와%20동시성/Volatile.md)
+* [Atomic Type](Java/멀티스레드와%20동시성/Atomic%Type.md)
+* [ReetrantLoc](Java/멀티스레드와%20동시성/ReetrantLoc.md)
