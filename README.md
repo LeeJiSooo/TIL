@@ -22,13 +22,13 @@ Today I Learned - 그날 공부한 내용 정리
 * [Synchronized](Java/멀티스레드와%20동시성/Synchronized.md)
 * [Lock](Java/멀티스레드와%20동시성/Lock.md)
 * [Volatile](Java/멀티스레드와%20동시성/Volatile.md)
-* [Atomic Type](Java/멀티스레드와%20동시성/Atomic%Type.md)
+* [Atomic Type](Java/멀티스레드와%20동시성/Atomic%20Type.md)
 * [ReetrantLoc](Java/멀티스레드와%20동시성/ReetrantLoc.md)
 
 ### 💻 Web
 * [INTERNET](Web/INTERNET.md)
-* [클라이언트 - 서버](Web/클라이언트%-%서버.md)
-* [네트워크 프로토콜](Web/네트워크%프로토콜.md)
+* [클라이언트 - 서버](Web/클라이언트%20-%20서버.md)
+* [네트워크 프로토콜](Web/네트워크%20프로토콜.md)
 * [HTTP](Web/HTTP.md)
-* [HTTP-Request Method, Status Code](Web/HTTP-Request%Method,%Status%Code.md)
-* [Query String과 Path Variable](Web/Query%String과%Path%Variable.md)
+* [HTTP-Request Method, Status Code](Web/HTTP-Request%20Method,%20Status%20Code.md)
+* [Query String과 Path Variable](Web/Query%20String과%20Path%20Variable.md)
