@@ -32,3 +32,8 @@ Today I Learned - 그날 공부한 내용 정리
 * [HTTP](Web/HTTP.md)
 * [HTTP-Request Method, Status Code](Web/HTTP-Request%20Method,%20Status%20Code.md)
 * [Query String과 Path Variable](Web/Query%20String과%20Path%20Variable.md)
+* [API](Web/API.md)
+* [REST API](Web/REST%20API.md)
+* [TCP/UDP](Web/TCP&UDP.md)
+* [3-way HandShake](Web/3-way%20HandShake.md)
+* [HTTP Cache](Web/HTTP%20Cache.md)
