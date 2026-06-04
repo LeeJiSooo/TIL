@@ -25,6 +25,9 @@ Today I Learned - 그날 공부한 내용 정리
 * [Atomic Type](Java/멀티스레드와%20동시성/Atomic%20Type.md)
 * [ReetrantLoc](Java/멀티스레드와%20동시성/ReetrantLoc.md)
 
+#### 🔹 예외처리
+* [throw,throws](Java/예외처리/throw,throws.md)
+
 ### 💻 Web
 * [INTERNET](Web/INTERNET.md)
 * [클라이언트 - 서버](Web/클라이언트%20-%20서버.md)
@@ -53,4 +56,8 @@ Today I Learned - 그날 공부한 내용 정리
 * [DI(Dependency Injection)](SpringBoot/DI(Dependency%20Injection).md)
 * [Bean](SpringBoot/Bean.md)
 * [AOP(Aspect-Oriented Programming)](SpringBoot/AOP(Aspect-Oriented%20Programming).md)
-  
+* [Controller](SpringBoot/Controller.md)
+* [Request,Response](SpringBoot/Request,Response.md)
+* [Service](SpringBoot/Service.md)
+* [Bean Validation](SpringBoot/Bean%20Validation.md)
+* [Exception Handling](SpringBoot/Exception%20Handling.md)
