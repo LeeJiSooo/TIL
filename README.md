@@ -48,6 +48,9 @@ Today I Learned - 그날 공부한 내용 정리
 ### ⭐️ OOP
 * [OOP(Object-Oriented Programming)](OOP/OOP(Object-Oriented%20Programming).md)
 * [Dependency(의존성)](OOP/Dependency(의존성).md)
+* [SOLID-SRP(Single Responsibility Principle)](OOP/SOLID-SRP(Single%20Responsibility%20Principle).md)
+* [SOLID-OCP(Open Closed Principle)](OOP/SOLID-OCP(Open%20Closed%20Principle).md)
+* [SOLID-DIP(Dependency Inversion Principle)](OOP/SOLID-DIP(Dependency%20Inversion%20Principle).md)
 
 ### 🔧 SpringBoot
 * [MVC (Model-View-Controller)](SpringBoot/MVC%20(Model-View-Controller).md)
