@@ -64,3 +64,8 @@ Today I Learned - 그날 공부한 내용 정리
 * [Service](SpringBoot/Service.md)
 * [Bean Validation](SpringBoot/Bean%20Validation.md)
 * [Exception Handling](SpringBoot/Exception%20Handling.md)
+
+### 💾 Database
+* [Database](Database/Database.md)
+* [정규화](Database/정규화.md)
+* [SQL 기초](Database/SQL%20기초.md)
