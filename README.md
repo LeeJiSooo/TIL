@@ -69,3 +69,7 @@ Today I Learned - 그날 공부한 내용 정리
 * [Database](Database/Database.md)
 * [정규화](Database/정규화.md)
 * [SQL 기초](Database/SQL%20기초.md)
+* [SQL 응용](Database/SQL응용.md)
+* [ERD](Database/ERD.md)
+* [Index](Database/Index.md)
+* [Full Text Index](Database/Full%20Text%20Index.md)
