@@ -73,3 +73,5 @@ Today I Learned - 그날 공부한 내용 정리
 * [ERD](Database/ERD.md)
 * [Index](Database/Index.md)
 * [Full Text Index](Database/Full%20Text%20Index.md)
+* [Transaction](Database/Transaction.md)
+* [NoSQL](Database/NoSQL.md)
