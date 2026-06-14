@@ -52,7 +52,7 @@ Today I Learned - 그날 공부한 내용 정리
 * [SOLID-OCP(Open Closed Principle)](OOP/SOLID-OCP(Open%20Closed%20Principle).md)
 * [SOLID-DIP(Dependency Inversion Principle)](OOP/SOLID-DIP(Dependency%20Inversion%20Principle).md)
 * [SOLID-LSP(Liskov Substitution Principle)](OOP/SOLID-LSP(Liskov%20Substitution%20Principle).md)
-* [SOLID-ISP(Interface Segregation Principle)](OOP/SOLID-ISP20(Interface20Segregation20Principle).md)
+* [SOLID-ISP(Interface Segregation Principle)](OOP/SOLID-ISP%20(Interface20Segregation20Principle).md)
 
 ### 🔧 SpringBoot
 * [MVC (Model-View-Controller)](SpringBoot/MVC%20(Model-View-Controller).md)
