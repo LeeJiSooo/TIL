@@ -51,6 +51,8 @@ Today I Learned - 그날 공부한 내용 정리
 * [SOLID-SRP(Single Responsibility Principle)](OOP/SOLID-SRP(Single%20Responsibility%20Principle).md)
 * [SOLID-OCP(Open Closed Principle)](OOP/SOLID-OCP(Open%20Closed%20Principle).md)
 * [SOLID-DIP(Dependency Inversion Principle)](OOP/SOLID-DIP(Dependency%20Inversion%20Principle).md)
+* [SOLID-LSP(Liskov Substitution Principle)](OOP/SOLID-LSP(Liskov%20Substitution%20Principle).md)
+* [SOLID-ISP(Interface Segregation Principle)](OOP/SOLID-ISP20(Interface20Segregation20Principle).md)
 
 ### 🔧 SpringBoot
 * [MVC (Model-View-Controller)](SpringBoot/MVC%20(Model-View-Controller).md)
@@ -64,6 +66,7 @@ Today I Learned - 그날 공부한 내용 정리
 * [Service](SpringBoot/Service.md)
 * [Bean Validation](SpringBoot/Bean%20Validation.md)
 * [Exception Handling](SpringBoot/Exception%20Handling.md)
+* [Custom Exception](SpringBoot/Custom%20Exception.md)
 
 ### 💾 Database
 * [Database](Database/Database.md)
