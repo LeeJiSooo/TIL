@@ -67,6 +67,31 @@ Today I Learned - 그날 공부한 내용 정리
 * [Bean Validation](SpringBoot/Bean%20Validation.md)
 * [Exception Handling](SpringBoot/Exception%20Handling.md)
 * [Custom Exception](SpringBoot/Custom%20Exception.md)
+  
+#### 🔹 JPA
+* [ORM](SpringBoot/JPA/ORM.md)
+* [JPA](SpringBoot/JPA/JPA.md)
+* [Entity](SpringBoot/JPA/Entity.md)
+* [@Id](SpringBoot/JPA/@Id.md)
+* [기본 키 생성 전략](SpringBoot/JPA/기본%20키%20생성%20전략.md)
+* [영속성 컨텍스트](SpringBoot/JPA/영속성%20컨텍스트.md)
+* [Transaction](SpringBoot/JPA/Transaction.md)
+* [Persist](SpringBoot/JPA/Persist.md)
+* [Flush](SpringBoot/JPA/Flush.md)
+* [Remove](SpringBoot/JPA/Remove.md)
+* [연관관계 매핑](SpringBoot/JPA/연관관계%20매핑.md)
+* [연관관계 매핑 - 단방향 연관관계](SpringBoot/JPA/연관관계%20매핑%20-%20단방향%20연관관계.md)
+* [연관관계 매핑 - 양방향 연관관계](SpringBoot/JPA/연관관계%20매핑%20-%20양방향%20연관관계.md)
+* [연관관계 매핑 - ManyToOne(N:1)](SpringBoot/JPA/연관관계%20매핑%20-%20ManyToOne(N:1).md)
+* [연관관계 매핑 - OneToMany(1:N](SpringBoot/JPA/연관관계%20매핑%20-%20OneToMany(1:N).md)
+* [연관관계 매핑 - OneToOne(1:1)](SpringBoot/JPA/연관관계%20매핑%20-%20OneToOne(1:1).md)
+* [Proxy](SpringBoot/JPA/Proxy.md)
+* [JPQL](SpringBoot/JPA/JPQL.md)
+* [fetch join](SpringBoot/JPA/fetch%20join.md)
+* [Spring Data JPA](SpringBoot/JPA/Spring%20Data%20JPA.md)
+* [Repository](SpringBoot/JPA/Repository.md)
+* [Repository](SpringBoot/JPA/Repository.md)
+
 
 ### 💾 Database
 * [Database](Database/Database.md)
