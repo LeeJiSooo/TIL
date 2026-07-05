@@ -53,6 +53,11 @@ Today I Learned - 그날 공부한 내용 정리
 * [SOLID-DIP(Dependency Inversion Principle)](OOP/SOLID-DIP(Dependency%20Inversion%20Principle).md)
 * [SOLID-LSP(Liskov Substitution Principle)](OOP/SOLID-LSP(Liskov%20Substitution%20Principle).md)
 * [SOLID-ISP(Interface Segregation Principle)](OOP/SOLID-ISP%20(Interface%20Segregation%20Principle).md)
+* [디자인 패턴-Factory](OOP/디자인%20패턴-Factory.md)
+* [디자인패턴-Strategy Pattern](OOP/디자인패턴-Strategy%20Pattern.md)
+* [디자인패턴-Proxy Pattern](OOP/디자인패턴-Proxy%20Pattern.md)
+* [디자인패턴-Adapter Pattern](OOP/디자인패턴-Adapter%20Pattern.md)
+* [디자인패턴-Observer Pattern](OOP/디자인패턴-Observer%20Pattern.md)
 
 ### 🔧 SpringBoot
 * [MVC (Model-View-Controller)](SpringBoot/MVC%20(Model-View-Controller).md)
